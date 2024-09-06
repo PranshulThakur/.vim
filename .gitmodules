@@ -21,4 +21,4 @@
 	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
 [submodule "bundle/julia-vim"]
 	path = bundle/julia-vim
-	url = git://github.com/JuliaEditorSupport/julia-vim.git
+	url = https://github.com/JuliaEditorSupport/julia-vim.git
